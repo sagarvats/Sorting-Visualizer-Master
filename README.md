@@ -1,7 +1,6 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
-> [Live demo](https://shubh67678.github.io/sorting-visualizer/)
+
 
 ---
 
@@ -28,7 +27,7 @@ It compares the time taken by the different algorithm for sorting the array.
 
 ## References
 
-Inspiration taken from [coding train](https://www.youtube.com/watch?v=67k3I2GxTH8).
+
 
 Useful links discribing the algorithms used 
 
